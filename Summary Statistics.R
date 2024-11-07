@@ -22,7 +22,7 @@
 
 install.packages("tidyverse")
 install.packages("pastecs")# more stats
-
+# library
 
 library(tidyverse)
 
